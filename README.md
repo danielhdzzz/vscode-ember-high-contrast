@@ -1,7 +1,7 @@
-# 🌈 Ember High Contrast theme for vscode
+# 🧯 Ember High Contrast theme for vscode
 
 - Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
-- Tweaked colors
+- Revised colors
 
 ![screenshot](./screenshots/screenshot.png)
 
