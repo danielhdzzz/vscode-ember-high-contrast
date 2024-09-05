@@ -20,14 +20,14 @@
         "configuration": {},
         "themes": [
             {
-                "label": "monokai-charcoal",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokai-Charcoal.json"
-            },
-            {
                 "label": "monokai-charcoal (orange)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-orange.json"
+            },
+            {
+                "label": "monokai-charcoal (gray)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai-Charcoal-gray.json"
             },
             {
                 "label": "monokai-charcoal (purple)",
@@ -50,9 +50,9 @@
                 "path": "./themes/Monokai-Charcoal-green.json"
             },
             {
-                "label": "monokai-charcoal (gray)",
+                "label": "monokai-charcoal (blue)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai-Charcoal-gray.json"
+                "path": "./themes/Monokai-Charcoal-blue.json"
             },
             {
                 "label": "monokai-charcoal (white)",
