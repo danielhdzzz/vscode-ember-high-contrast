@@ -3,41 +3,41 @@
 - Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
 - Tweaked colors
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshots/screenshot.png)
 
 ## colors
 
 ### blue
 
-![blue(default)](screenshot-blue.png)
+![blue(default)](./screenshots/screenshot-blue.png)
 
 ## gray
 
-![gray](screenshot-gray.png)
+![gray](./screenshots/screenshot-gray.png)
 
 ## green
 
-![green](screenshot-green.png)
+![green](./screenshots/screenshot-green.png)
 
 ## orange
 
-![orange](screenshot-orange.png)
+![orange](./screenshots/screenshot-orange.png)
 
 ## purple
 
-![purple](screenshot-purple.png)
+![purple](./screenshots/screenshot-purple.png)
 
 ## red
 
-![red](screenshot-red.png)
+![red](./screenshots/screenshot-red.png)
 
 ## white
 
-![white](screenshot-white.png)
+![white](./screenshots/screenshot-white.png)
 
 ## yellow
 
-![yelow](screenshot-yellow.png)
+![yelow](./screenshots/screenshot-yellow.png)
 
 ## for vim
 
