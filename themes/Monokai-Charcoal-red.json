@@ -69,20 +69,20 @@
         {
             "name": "Class name",
             "scope": "entity.name.class",
-            "settings": { "fontStyle": "underline", "foreground": "#A6E22E" }
+            "settings": { "fontStyle": "underline", "foreground": "#19FC8E" }
         },
         {
             "name": "Inherited class",
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "italic underline",
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
             "name": "Function name",
             "scope": "entity.name.function",
-            "settings": { "fontStyle": "", "foreground": "#A6E22E" }
+            "settings": { "fontStyle": "", "foreground": "#19FC8E" }
         },
         {
             "name": "Function argument",
@@ -97,7 +97,7 @@
         {
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name",
-            "settings": { "fontStyle": "", "foreground": "#A6E22E" }
+            "settings": { "fontStyle": "", "foreground": "#19FC8E" }
         },
         {
             "name": "Library function",
@@ -154,7 +154,7 @@
         {
             "name": "diff.inserted",
             "scope": "markup.inserted",
-            "settings": { "foreground": "#A6E22E" }
+            "settings": { "foreground": "#19FC8E" }
         },
         {
             "name": "diff.changed",
@@ -172,19 +172,19 @@
         {
             "name": "Language methods",
             "scope": ["variable.language"],
-            "settings": { "foreground": "#A6E22E" }
+            "settings": { "foreground": "#19FC8E" }
         },
         {
             "scope": "heading.1.markdown",
-            "settings": { "foreground": "#A6E22E", "fontStyle": "bold" }
+            "settings": { "foreground": "#19FC8E", "fontStyle": "bold" }
         },
         {
             "scope": "punctuation.definition.heading.markdown",
-            "settings": { "foreground": "#A6E22E" }
+            "settings": { "foreground": "#19FC8E" }
         },
         {
             "scope": "entity.name.section.markdown",
-            "settings": { "foreground": "#A6E22E" }
+            "settings": { "foreground": "#19FC8E" }
         },
         {
             "scope": "punctuation.definition.list.begin.markdown",

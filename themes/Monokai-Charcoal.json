@@ -92,7 +92,7 @@
             "scope": "entity.name.class",
             "settings": {
                 "fontStyle": "underline",
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
@@ -100,7 +100,7 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "italic underline",
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
@@ -108,7 +108,7 @@
             "scope": "entity.name.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
@@ -132,7 +132,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
@@ -212,7 +212,7 @@
             "name": "diff.inserted",
             "scope": "markup.inserted",
             "settings": {
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
@@ -238,26 +238,26 @@
             "name": "Language methods",
             "scope": ["variable.language"],
             "settings": {
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
             "scope": "heading.1.markdown",
             "settings": {
-                "foreground": "#A6E22E",
+                "foreground": "#19FC8E",
                 "fontStyle": "bold"
             }
         },
         {
             "scope": "punctuation.definition.heading.markdown",
             "settings": {
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {
             "scope": "entity.name.section.markdown",
             "settings": {
-                "foreground": "#A6E22E"
+                "foreground": "#19FC8E"
             }
         },
         {

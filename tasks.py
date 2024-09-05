@@ -10,7 +10,7 @@ def build_colors(c):
 
     features = {
         "orange": ["#FD971F", "#FD971F75", "#FD971F25", "#FD971F15", "#e7dc60", "#e7dc6015"],
-        "green ": ["#A6E22E", "#A6E22E75", "#A6E22E25", "#A6E22E15", "#43B9D8", "#43B9D815"],
+        "green ": ["#19FC8E", "#19FC8E75", "#19FC8E25", "#19FC8E15", "#43B9D8", "#43B9D815"],
         "purple": ["#AE81FF", "#AE81FF75", "#AE81FF25", "#AE81FF15", "#43B9D8", "#43B9D815"],
         "yellow": ["#e7dc60", "#e7dc6075", "#e7dc6025", "#e7dc6015", "#FD971F", "#FD971F15"],
         "red   ": ["#f82a5d", "#f82a5d75", "#f82a5d25", "#f82a5d15", "#e7dc60", "#e7dc6015"],
