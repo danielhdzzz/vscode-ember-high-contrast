@@ -54,12 +54,12 @@
         {
             "name": "Keyword",
             "scope": "keyword",
-            "settings": { "fontStyle": "bold", "foreground": "#F92672" }
+            "settings": { "fontStyle": "bold", "foreground": "#F43F1A" }
         },
         {
             "name": "Storage",
             "scope": "storage",
-            "settings": { "fontStyle": "bold", "foreground": "#F92672" }
+            "settings": { "fontStyle": "bold", "foreground": "#F43F1A" }
         },
         {
             "name": "Storage type",
@@ -92,7 +92,7 @@
         {
             "name": "Tag name",
             "scope": "entity.name.tag",
-            "settings": { "fontStyle": "bold", "foreground": "#F92672" }
+            "settings": { "fontStyle": "bold", "foreground": "#F43F1A" }
         },
         {
             "name": "Tag attribute",
@@ -123,7 +123,7 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#F92672",
+                "background": "#F43F1A",
                 "fontStyle": "bold",
                 "foreground": "#F8F8F0"
             }
@@ -149,7 +149,7 @@
         {
             "name": "diff.deleted",
             "scope": "markup.deleted",
-            "settings": { "background": "#F92672", "foreground": "#F92672" }
+            "settings": { "background": "#F43F1A", "foreground": "#F43F1A" }
         },
         {
             "name": "diff.inserted",
