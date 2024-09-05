@@ -24,7 +24,7 @@
         {
             "name": "Comment",
             "scope": ["comment"],
-            "settings": { "foreground": "#FD971F" }
+            "settings": { "foreground": "#787878" }
         },
         {
             "name": "String",
