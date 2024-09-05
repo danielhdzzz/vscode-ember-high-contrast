@@ -64,7 +64,7 @@
         {
             "name": "Storage type",
             "scope": "storage.type",
-            "settings": { "fontStyle": "italic", "foreground": "#66D9EF" }
+            "settings": { "fontStyle": "italic", "foreground": "#02b5fc" }
         },
         {
             "name": "Class name",
@@ -102,17 +102,17 @@
         {
             "name": "Library function",
             "scope": "support.function",
-            "settings": { "fontStyle": "", "foreground": "#66D9EF" }
+            "settings": { "fontStyle": "", "foreground": "#02b5fc" }
         },
         {
             "name": "Library constant",
             "scope": "support.constant",
-            "settings": { "fontStyle": "", "foreground": "#66D9EF" }
+            "settings": { "fontStyle": "", "foreground": "#02b5fc" }
         },
         {
             "name": "Library class/type",
             "scope": ["support.type", "support.class"],
-            "settings": { "fontStyle": "italic", "foreground": "#66D9EF" }
+            "settings": { "fontStyle": "italic", "foreground": "#02b5fc" }
         },
         {
             "name": "Library variable",
@@ -204,7 +204,7 @@
         },
         {
             "scope": "markup.inline.raw.string.markdown",
-            "settings": { "foreground": "#66D9EF" }
+            "settings": { "foreground": "#02b5fc" }
         },
         {
             "scope": "meta.separator.markdown",
