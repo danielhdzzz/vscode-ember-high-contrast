@@ -1,5 +1,5 @@
 " Vim color file
-" Converted from Textmate theme Monokai Charcoal using Coloration v0.4.0 (http://github.com/sickill/coloration)
+" Converted from Textmate theme Ember High Contrast using Coloration v0.4.0 (http://github.com/sickill/coloration)
 
 set background=dark
 highlight clear
@@ -8,7 +8,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Monokai Charcoal"
+let g:colors_name = "Ember High Contrast"
 
 hi Cursor ctermfg=232 ctermbg=231 cterm=NONE guifg=#0a0006 guibg=#f8f8f0 gui=NONE
 hi Visual ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE

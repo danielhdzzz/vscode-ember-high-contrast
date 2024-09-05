@@ -18,7 +18,7 @@ def build_colors(c):
         "white ": ["#f1f1f1", "#f1f1f175", "#f1f1f125", "#f1f1f115", "#43B9D8", "#43B9D815"],
     }
 
-    with open("themes/Monokai-Charcoal.json") as f:
+    with open("themes/ember-high-contrast.json") as f:
         base_theme = json.load(f)
 
     for feature_name, colors in features.items():
@@ -31,7 +31,7 @@ def build_colors(c):
                 if base_hex_code == hex_code:
                     theme["colors"][name] = colors[i]
 
-        file_name = f"themes/Monokai-Charcoal-{feature_name}.json"
+        file_name = f"themes/ember-high-contrast-{feature_name}.json"
         with open(file_name, "w") as f:
             json.dump(theme, f)
         c.run(f"npx prettier --write {file_name}")
@@ -43,7 +43,7 @@ def deploy(c):
 
 @task
 def convert_vim(c):
-    c.run("~/.gem/ruby/2.7.0/bin/tm2vim ./themes/Monokai-Charcoal.xml ./themes/Monokai-Charcoal.vim")
+    c.run("~/.gem/ruby/2.7.0/bin/tm2vim ./themes/ember-high-contrast.xml ./themes/ember-high-contrast.vim")
 
 if __name__ == "__main__":
     build_colors(context.Context())

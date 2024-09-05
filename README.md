@@ -41,7 +41,7 @@
 
 ## for vim
 
-![./themes/Monokai-Charcoal.vim](./themes/Monokai-Charcoal.vim)
+![./themes/ember-high-contrast.vim](./themes/ember-high-contrast.vim)
 
 ## how to use
 
@@ -50,4 +50,4 @@ cd ~/.vscode/extensions/
 git clone git@github.com:74th/vscode-monokaicharcoal.git
 ```
 
-restart VSCode and change the theme to monokai-charcoal(HC)
+restart VSCode and change the theme to ember-high-contrast(HC)

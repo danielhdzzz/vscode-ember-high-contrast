@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Monokai Charcoal (green)",
+    "name": "Ember High Contrast (green)",
     "tokenColors": [
         {
             "settings": {
