@@ -1,16 +1,13 @@
-# Monokai Charcoal with high contrast for vscode theme
+# 🌈 Ember High Contrast theme for vscode
 
-- based on [Monokai Charcoal](https://colorsublime.github.io/themes/Monokai%20Charcoal/)
-- some arranged color
-- available some frame color
+- Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
+- Tweaked colors
 
 ![screenshot](./screenshot.png)
 
-Recommended File Icon Theme: [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
-
 ## colors
 
-### blue (default)
+### blue
 
 ![blue(default)](screenshot-blue.png)
 
