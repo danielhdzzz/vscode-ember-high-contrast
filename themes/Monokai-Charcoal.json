@@ -32,7 +32,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#E6DB74"
+                "foreground": "#F9C449"
             }
         },
         {
@@ -219,7 +219,7 @@
             "name": "diff.changed",
             "scope": "markup.changed",
             "settings": {
-                "foreground": "#E6DB74"
+                "foreground": "#F9C449"
             }
         },
         {
@@ -231,7 +231,7 @@
         {
             "scope": "entity.name.filename.find-in-files",
             "settings": {
-                "foreground": "#E6DB74"
+                "foreground": "#F9C449"
             }
         },
         {
@@ -269,7 +269,7 @@
         {
             "scope": "meta.image.inline.markdown",
             "settings": {
-                "foreground": "#E6DB74"
+                "foreground": "#F9C449"
             }
         },
         {

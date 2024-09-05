@@ -22,7 +22,7 @@ hi StatusLine ctermfg=231 ctermbg=59 cterm=bold guifg=#f8f8f2 guibg=#4f484a gui=
 hi StatusLineNC ctermfg=231 ctermbg=59 cterm=NONE guifg=#f8f8f2 guibg=#4f484a gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
-hi IncSearch ctermfg=232 ctermbg=186 cterm=NONE guifg=#0a0006 guibg=#e6db74 gui=NONE
+hi IncSearch ctermfg=232 ctermbg=186 cterm=NONE guifg=#0a0006 guibg=#F9C449 gui=NONE
 hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Folded ctermfg=208 ctermbg=232 cterm=NONE guifg=#fd971f guibg=#0a0006 gui=NONE
@@ -44,7 +44,7 @@ hi Float ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Function ctermfg=148 ctermbg=NONE cterm=NONE guifg=#19FC8E guibg=NONE gui=NONE
 hi Identifier ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=italic
 hi Keyword ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
-hi Label ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
+hi Label ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
 hi NonText ctermfg=NONE ctermbg=16 cterm=NONE guifg=NONE guibg=#160c12 gui=NONE
 hi Number ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Operator ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
@@ -53,7 +53,7 @@ hi Special ctermfg=231 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=NONE gui=NONE
 hi SpecialKey ctermfg=NONE ctermbg=234 cterm=NONE guifg=NONE guibg=#22191e gui=NONE
 hi Statement ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi StorageClass ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=italic
-hi String ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
+hi String ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
 hi Tag ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi Title ctermfg=231 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE gui=bold
 hi Todo ctermfg=208 ctermbg=NONE cterm=inverse,bold guifg=#fd971f guibg=NONE gui=inverse,bold
@@ -64,13 +64,13 @@ hi rubyFunction ctermfg=148 ctermbg=NONE cterm=NONE guifg=#19FC8E guibg=NONE gui
 hi rubyInterpolationDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi rubySymbol ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi rubyConstant ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=italic
-hi rubyStringDelimiter ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
+hi rubyStringDelimiter ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
 hi rubyBlockParameter ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fd971f guibg=NONE gui=italic
 hi rubyInstanceVariable ctermfg=148 ctermbg=NONE cterm=NONE guifg=#19FC8E guibg=NONE gui=NONE
 hi rubyInclude ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi rubyGlobalVariable ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
-hi rubyRegexp ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
-hi rubyRegexpDelimiter ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
+hi rubyRegexp ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
+hi rubyRegexpDelimiter ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
 hi rubyEscape ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi rubyControl ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi rubyClassVariable ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
@@ -96,7 +96,7 @@ hi javaScriptBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE g
 hi yamlKey ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi yamlAnchor ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi yamlAlias ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
-hi yamlDocumentHeader ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
+hi yamlDocumentHeader ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
 hi cssURL ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fd971f guibg=NONE gui=italic
 hi cssFunctionName ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=NONE
 hi cssColor ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE

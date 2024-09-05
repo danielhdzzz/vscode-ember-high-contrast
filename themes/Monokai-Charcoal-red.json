@@ -29,7 +29,7 @@
         {
             "name": "String",
             "scope": "string",
-            "settings": { "foreground": "#E6DB74" }
+            "settings": { "foreground": "#F9C449" }
         },
         {
             "name": "Number",
@@ -159,7 +159,7 @@
         {
             "name": "diff.changed",
             "scope": "markup.changed",
-            "settings": { "foreground": "#E6DB74" }
+            "settings": { "foreground": "#F9C449" }
         },
         {
             "scope": "constant.numeric.line-number.find-in-files - match",
@@ -167,7 +167,7 @@
         },
         {
             "scope": "entity.name.filename.find-in-files",
-            "settings": { "foreground": "#E6DB74" }
+            "settings": { "foreground": "#F9C449" }
         },
         {
             "name": "Language methods",
@@ -192,7 +192,7 @@
         },
         {
             "scope": "meta.image.inline.markdown",
-            "settings": { "foreground": "#E6DB74" }
+            "settings": { "foreground": "#F9C449" }
         },
         {
             "scope": "markup.bold.markdown",
