@@ -6,7 +6,7 @@ from invoke import context, task
 @task
 def build_colors(c):
 
-    base_colors = ["#43B9D8", "#43bad875", "#43bad825", "#02B5FC15", "#FD971F", "#FD971F15"]
+    base_colors = ["#43B9D8", "#02B5FC75", "#02B5FC25", "#02B5FC15", "#FD971F", "#FD971F15"]
 
     features = {
         "orange": ["#FD971F", "#FD971F75", "#FD971F25", "#FD971F15", "#e7dc60", "#e7dc6015"],
