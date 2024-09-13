@@ -3,7 +3,7 @@
 - Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
 - Revised colors
 
-![screenshot](./screenshots/screenshot.png)
+![screenshot](./screenshots/screenshot-orange.png)
 
 ## Colors
 
