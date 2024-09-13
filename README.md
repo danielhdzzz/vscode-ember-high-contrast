@@ -5,49 +5,56 @@
 
 ![screenshot](./screenshots/screenshot.png)
 
-## colors
+## Colors
 
-### blue
+### Blue
 
 ![blue(default)](./screenshots/screenshot-blue.png)
 
-## gray
+### Gray
 
 ![gray](./screenshots/screenshot-gray.png)
 
-## green
+### Green
 
 ![green](./screenshots/screenshot-green.png)
 
-## orange
+### Orange
 
 ![orange](./screenshots/screenshot-orange.png)
 
-## purple
+### Purple
 
 ![purple](./screenshots/screenshot-purple.png)
 
-## red
+### Red
 
 ![red](./screenshots/screenshot-red.png)
 
-## white
+### White
 
 ![white](./screenshots/screenshot-white.png)
 
-## yellow
+### Yellow
 
 ![yelow](./screenshots/screenshot-yellow.png)
 
-## for vim
+## For vim
 
 ![./themes/ember-high-contrast.vim](./themes/ember-high-contrast.vim)
 
-## how to use
+## How to use
 
 ```
 cd ~/.vscode/extensions/
-git clone git@github.com:74th/vscode-monokaicharcoal.git
+git clone git@github.com:danielhdzzz/vscode-ember-high-contrast.git
 ```
 
 restart VSCode and change the theme to ember-high-contrast(HC)
+
+## To package the theme yourself
+
+```bash
+npm install -g @vscode/vsce
+vsce package
+```
