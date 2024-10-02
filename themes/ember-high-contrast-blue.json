@@ -329,10 +329,10 @@
 
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
-        "editor.inactiveSelectionBackground": "#3824bea4",
-        "editor.findMatchBackground": "#3924be",
-        "editor.findMatchBorder": "#3924be",
-        "editor.selectionBackground": "#3924be",
+        "editor.inactiveSelectionBackground": "#ff5900a4",
+        "editor.findMatchBackground": "#ff5900",
+        "editor.findMatchBorder": "#ff5900",
+        "editor.selectionBackground": "#ff5900",
         "editor.selectionForeground": "#000c18",
         "editor.lineHighlightBorder": "#02B5FC75",
         "editorLineNumber.foreground": "#02B5FC",
@@ -341,7 +341,7 @@
         "editorMarkerNavigationError.background": "#AB395B",
         "editorMarkerNavigationWarning.background": "#5B7E7A",
         "editorLink.activeForeground": "#0063a5",
-        "editor.findMatchHighlightBackground": "#eeeeee44",
+        "editor.findMatchHighlightBackground": "#ff5900ba",
 
         "terminal.ansiBlack": "#8f8f8f",
         "terminal.ansiBrightBlack": "#8f8f8f",
