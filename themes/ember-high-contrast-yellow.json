@@ -87,7 +87,7 @@
         {
             "name": "Function argument",
             "scope": "variable.parameter",
-            "settings": { "fontStyle": "italic", "foreground": "#FD971F" }
+            "settings": { "fontStyle": "italic", "foreground": "#E96401" }
         },
         {
             "name": "Tag name",
@@ -269,7 +269,7 @@
         "editorSuggestWidget.background": "#000000",
         "editorSuggestWidget.foreground": "#FFFFFF",
         "editorSuggestWidget.border": "#F9C449",
-        "editorSuggestWidget.highlightForeground": "#FD971F",
+        "editorSuggestWidget.highlightForeground": "#E96401",
         "editorSuggestWidget.selectedBackground": "#F9C44975",
         "editorHoverWidget.background": "#000000",
         "editorHoverWidget.border": "#F9C44975",
@@ -339,7 +339,7 @@
         "notifications.border": "#F9C44975",
         "notificationCenterHeader.background": "#000000",
         "notificationCenterHeader.foreground": "#FFFFFF",
-        "editorHint.foreground": "#FD971F",
+        "editorHint.foreground": "#E96401",
         "diffEditor.insertedTextBackground": "#31958A55",
         "diffEditor.insertedTextBorder": "#31958A55",
         "diffEditor.removedTextBackground": "#892F4688",

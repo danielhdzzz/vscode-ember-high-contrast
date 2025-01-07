@@ -87,7 +87,7 @@
         {
             "name": "Function argument",
             "scope": "variable.parameter",
-            "settings": { "fontStyle": "italic", "foreground": "#FD971F" }
+            "settings": { "fontStyle": "italic", "foreground": "#E96401" }
         },
         {
             "name": "Tag name",

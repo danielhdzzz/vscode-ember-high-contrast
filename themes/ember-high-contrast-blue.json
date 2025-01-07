@@ -116,7 +116,7 @@
             "scope": "variable.parameter",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#FD971F"
+                "foreground": "#E96401"
             }
         },
         {
@@ -365,7 +365,7 @@
         "editorSuggestWidget.background": "#000000",
         "editorSuggestWidget.foreground": "#FFFFFF",
         "editorSuggestWidget.border": "#02B5FC",
-        "editorSuggestWidget.highlightForeground": "#FD971F",
+        "editorSuggestWidget.highlightForeground": "#E96401",
         "editorSuggestWidget.selectedBackground": "#02B5FC75",
 
         "editorHoverWidget.background": "#000000",
@@ -452,7 +452,7 @@
         "notifications.border": "#02B5FC75",
         "notificationCenterHeader.background": "#000000",
         "notificationCenterHeader.foreground": "#FFFFFF",
-        "editorHint.foreground": "#FD971F",
+        "editorHint.foreground": "#E96401",
 
         "diffEditor.insertedTextBackground": "#31958A55",
         "diffEditor.insertedTextBorder": "#31958A55",

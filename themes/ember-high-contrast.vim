@@ -25,7 +25,7 @@ hi PmenuSel ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi IncSearch ctermfg=232 ctermbg=186 cterm=NONE guifg=#0a0006 guibg=#F9C449 gui=NONE
 hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
-hi Folded ctermfg=208 ctermbg=232 cterm=NONE guifg=#fd971f guibg=#0a0006 gui=NONE
+hi Folded ctermfg=208 ctermbg=232 cterm=NONE guifg=#E96401 guibg=#0a0006 gui=NONE
 
 hi Normal ctermfg=231 ctermbg=232 cterm=NONE guifg=#f8f8f2 guibg=#0a0006 gui=NONE
 hi Boolean ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
@@ -56,7 +56,7 @@ hi StorageClass ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=
 hi String ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
 hi Tag ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi Title ctermfg=231 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE gui=bold
-hi Todo ctermfg=208 ctermbg=NONE cterm=inverse,bold guifg=#fd971f guibg=NONE gui=inverse,bold
+hi Todo ctermfg=208 ctermbg=NONE cterm=inverse,bold guifg=#E96401 guibg=NONE gui=inverse,bold
 hi Type ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi rubyClass ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
@@ -65,7 +65,7 @@ hi rubyInterpolationDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE gu
 hi rubySymbol ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi rubyConstant ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=italic
 hi rubyStringDelimiter ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
-hi rubyBlockParameter ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fd971f guibg=NONE gui=italic
+hi rubyBlockParameter ctermfg=208 ctermbg=NONE cterm=NONE guifg=#E96401 guibg=NONE gui=italic
 hi rubyInstanceVariable ctermfg=148 ctermbg=NONE cterm=NONE guifg=#19FC8E guibg=NONE gui=NONE
 hi rubyInclude ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi rubyGlobalVariable ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
@@ -83,7 +83,7 @@ hi rubyRailsARMethod ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE
 hi rubyRailsRenderMethod ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=NONE
 hi rubyRailsMethod ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=NONE
 hi erubyDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
-hi erubyComment ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fd971f guibg=NONE gui=NONE
+hi erubyComment ctermfg=208 ctermbg=NONE cterm=NONE guifg=#E96401 guibg=NONE gui=NONE
 hi erubyRailsMethod ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=NONE
 hi htmlTag ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi htmlEndTag ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
@@ -97,7 +97,7 @@ hi yamlKey ctermfg=197 ctermbg=NONE cterm=bold guifg=#F43F1A guibg=NONE gui=bold
 hi yamlAnchor ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi yamlAlias ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi yamlDocumentHeader ctermfg=186 ctermbg=NONE cterm=NONE guifg=#F9C449 guibg=NONE gui=NONE
-hi cssURL ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fd971f guibg=NONE gui=italic
+hi cssURL ctermfg=208 ctermbg=NONE cterm=NONE guifg=#E96401 guibg=NONE gui=italic
 hi cssFunctionName ctermfg=81 ctermbg=NONE cterm=NONE guifg=#02B5FC guibg=NONE gui=NONE
 hi cssColor ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi cssPseudoClassId ctermfg=148 ctermbg=NONE cterm=NONE guifg=#19FC8E guibg=NONE gui=NONE
