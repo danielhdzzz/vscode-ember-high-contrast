@@ -372,6 +372,10 @@
         "list.inactiveFocusOutline": "#8f8f8f",
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#8f8f8f",
-        "terminal.border": "#8f8f8f75"
+        "terminal.border": "#8f8f8f75",
+        "editorWarning.foreground": "#E96401",
+        "list.warningForeground": "#E96401",
+        "editorOverviewRuler.warningForeground": "#E96401",
+        "gitDecoration.modifiedResourceForeground": "#F9C449"
     }
 }
