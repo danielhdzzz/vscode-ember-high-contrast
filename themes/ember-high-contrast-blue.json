@@ -487,8 +487,8 @@
 
         "quickInput.background": "#000000",
 
-        "list.activeSelectionBackground": "#02B5FC75",
-        "list.inactiveSelectionBackground": "#02B5FC15",
+        "list.activeSelectionBackground": "#02B5FCCC",
+        "list.inactiveSelectionBackground": "#02B5FC60",
         "list.hoverBackground": "#02B5FC75",
         "list.inactiveFocusOutline": "#02B5FC",
 
