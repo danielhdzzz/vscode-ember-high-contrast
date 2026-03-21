@@ -1,7 +1,6 @@
-# 🧯 Ember High Contrast theme for vscode
+# 🕯️ Ember High Contrast theme for vscode
 
-- Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
-- Revised colors
+A dark, high-contrast color theme for VS Code with 8 accent color variants: blue, gray, green, orange, purple, red, white, and yellow. Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal) with revised colors.
 
 ![screenshot](./screenshots/screenshot-orange.png)
 
@@ -37,31 +36,23 @@
 
 ### Yellow
 
-![yelow](./screenshots/screenshot-yellow.png)
+![yellow](./screenshots/screenshot-yellow.png)
 
-## For vim
+## Install
 
-[./themes/ember-high-contrast.vim](./themes/ember-high-contrast.vim)
+Search for **Ember High Contrast** in the VS Code Extensions Marketplace, or install from the command line:
 
-## How to use
-
-```
-cd ~/.vscode/extensions/
-git clone git@github.com:danielhdzzz/vscode-ember-high-contrast.git
+```bash
+code --install-extension ember-high-contrast
 ```
 
-restart VSCode and change the theme to ember-high-contrast(HC)
+### Install from .vsix
 
-## To package the theme yourself
+You can also package and install the theme manually:
 
 ```bash
 npm install -g @vscode/vsce
 vsce package
-```
-
-## Install from .vsix
-
-```bash
 code --install-extension ember-high-contrast-<version>.vsix
 ```
 
