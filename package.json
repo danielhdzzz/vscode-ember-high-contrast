@@ -1,7 +1,7 @@
 {
     "name": "ember-high-contrast",
     "displayName": "Ember High Contrast",
-    "description": "Ember High Contrast",
+    "description": "A dark, high-contrast color theme with 8 accent color variants",
     "version": "0.2.0",
     "publisher": "danielhdzzz",
     "repository": {
@@ -12,12 +12,21 @@
     "engines": {
         "vscode": "^1.28.0"
     },
+    "keywords": [
+        "theme",
+        "dark",
+        "high-contrast",
+        "color-theme"
+    ],
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#1e1e1e",
+        "theme": "dark"
+    },
     "icon": "icon.png",
     "contributes": {
-        "configuration": {},
         "themes": [
             {
                 "label": "Ember High Contrast (orange)",
