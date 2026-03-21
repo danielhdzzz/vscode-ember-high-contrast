@@ -58,3 +58,15 @@ restart VSCode and change the theme to ember-high-contrast(HC)
 npm install -g @vscode/vsce
 vsce package
 ```
+
+## Install from .vsix
+
+```bash
+code --install-extension ember-high-contrast-<version>.vsix
+```
+
+For VSCodium:
+
+```bash
+codium --install-extension ember-high-contrast-<version>.vsix
+```
