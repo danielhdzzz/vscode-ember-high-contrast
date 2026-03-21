@@ -376,6 +376,10 @@
         "editorWarning.foreground": "#E96401",
         "list.warningForeground": "#E96401",
         "editorOverviewRuler.warningForeground": "#E96401",
-        "gitDecoration.modifiedResourceForeground": "#F9C449"
+        "gitDecoration.modifiedResourceForeground": "#F9C449",
+        "scrollbar.shadow": "#000000",
+        "scrollbarSlider.background": "#F43F1A40",
+        "scrollbarSlider.hoverBackground": "#F43F1A70",
+        "scrollbarSlider.activeBackground": "#F43F1ACC"
     }
 }
