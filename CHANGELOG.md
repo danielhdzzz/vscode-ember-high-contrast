@@ -2,6 +2,12 @@
 
 All notable changes to Ember High Contrast are documented in this file.
 
+## [0.2.2] - 2026-03-21
+
+### Added
+
+- Full git decoration colors: added, deleted, untracked, ignored, conflicting, renamed, staged modified, staged deleted, and submodule
+
 ## [0.2.1] - 2026-03-21
 
 ### Changed

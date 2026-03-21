@@ -1,6 +1,6 @@
 # 🕯️ Ember High Contrast theme for vscode
 
-A dark, high-contrast color theme for VS Code with 8 accent color variants: blue, gray, green, orange, purple, red, white, and yellow. Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal) with revised colors.
+A dark, high-contrast color theme for VS Code with 8 accent color variants: blue, gray, green, orange, purple, red, white, and yellow. Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal) with revised colors, themed scrollbars, warning/git colors, and find match foreground colors.
 
 ![screenshot](./screenshots/screenshot-orange.png)
 
