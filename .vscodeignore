@@ -7,3 +7,5 @@ screenshots/**
 *.vsix
 tasks.py
 package-lock.json
+icon_large.png
+.venv
