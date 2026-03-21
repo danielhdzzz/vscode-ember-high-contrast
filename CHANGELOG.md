@@ -2,6 +2,12 @@
 
 All notable changes to Ember High Contrast are documented in this file.
 
+## [0.2.1] - 2026-03-21
+
+### Changed
+
+- Icon now uses transparency instead of black background
+
 ## [0.2.0] - 2026-03-21
 
 ### Added

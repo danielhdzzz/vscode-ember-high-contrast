@@ -42,7 +42,7 @@ def get_gradient_color(t):
 
 
 def main():
-    img = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 255))
+    img = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
     pixels = img.load()
 
     for y in range(SIZE):
@@ -58,22 +58,16 @@ def main():
                 t = (angle + math.pi) / (2 * math.pi)  # 0.0 to 1.0
 
                 r, g, b = get_gradient_color(t)
+                alpha = 255
 
                 # Anti-alias outer edge
                 if dist > RADIUS:
                     alpha = max(0, int(255 * (RADIUS + 2 - dist) / 2))
-                    bg = 0  # black bg
-                    r = int(r * alpha / 255 + bg * (255 - alpha) / 255)
-                    g = int(g * alpha / 255 + bg * (255 - alpha) / 255)
-                    b = int(b * alpha / 255 + bg * (255 - alpha) / 255)
                 # Anti-alias inner edge
                 elif dist < INNER_RADIUS:
                     alpha = max(0, int(255 * (dist - (INNER_RADIUS - 2)) / 2))
-                    r = int(r * alpha / 255)
-                    g = int(g * alpha / 255)
-                    b = int(b * alpha / 255)
 
-                pixels[x, y] = (r, g, b, 255)
+                pixels[x, y] = (r, g, b, alpha)
 
     # Save full size and the 256x256 VS Code icon (recommended for Retina)
     img.save("icon_large.png")
