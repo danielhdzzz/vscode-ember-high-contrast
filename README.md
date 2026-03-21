@@ -41,7 +41,7 @@
 
 ## For vim
 
-![./themes/ember-high-contrast.vim](./themes/ember-high-contrast.vim)
+[./themes/ember-high-contrast.vim](./themes/ember-high-contrast.vim)
 
 ## How to use
 

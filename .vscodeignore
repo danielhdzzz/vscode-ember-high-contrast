@@ -2,3 +2,8 @@
 node_modules/**
 screenshots/**
 .gitignore
+.editorconfig
+.DS_Store
+*.vsix
+tasks.py
+package-lock.json
