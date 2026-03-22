@@ -7,10 +7,12 @@ All notable changes to Ember High Contrast are documented in this file.
 ### Added
 
 - Theme generator script (`generate_themes.py`) that produces all 8 theme JSON files from a single source of truth
+- Exhaustive named color palette (36 colors) — zero magic hex strings in the template
 
 ### Changed
 
-- Unified formatting across all theme files (fixed inconsistent casing and whitespace in orange and blue variants)
+- Unified formatting across all theme files (fixed inconsistent casing and whitespace)
+- All alpha/opacity values use 0–255 integers instead of hex suffixes
 
 ## [0.2.2] - 2026-03-21
 
