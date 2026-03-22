@@ -29,7 +29,7 @@
         {
             "name": "String",
             "scope": "string",
-            "settings": { "foreground": "#F9C449" }
+            "settings": { "foreground": "#F9B031" }
         },
         {
             "name": "Number",
@@ -159,7 +159,7 @@
         {
             "name": "diff.changed",
             "scope": "markup.changed",
-            "settings": { "foreground": "#F9C449" }
+            "settings": { "foreground": "#F9B031" }
         },
         {
             "scope": "constant.numeric.line-number.find-in-files - match",
@@ -167,7 +167,7 @@
         },
         {
             "scope": "entity.name.filename.find-in-files",
-            "settings": { "foreground": "#F9C449" }
+            "settings": { "foreground": "#F9B031" }
         },
         {
             "name": "Language methods",
@@ -192,7 +192,7 @@
         },
         {
             "scope": "meta.image.inline.markdown",
-            "settings": { "foreground": "#F9C449" }
+            "settings": { "foreground": "#F9B031" }
         },
         {
             "scope": "markup.bold.markdown",
@@ -257,8 +257,8 @@
         "terminal.ansiBrightRed": "#F43F1A",
         "terminal.ansiGreen": "#98d800",
         "terminal.ansiBrightGreen": "#98d800",
-        "terminal.ansiYellow": "#F9C449",
-        "terminal.ansiBrightYellow": "#F9C449",
+        "terminal.ansiYellow": "#F9B031",
+        "terminal.ansiBrightYellow": "#F9B031",
         "terminal.ansiBlue": "#5ccaef",
         "terminal.ansiBrightBlue": "#5ccaef",
         "terminal.ansiMagenta": "#f57f00",
@@ -376,7 +376,7 @@
         "editorWarning.foreground": "#E96401",
         "list.warningForeground": "#E96401",
         "editorOverviewRuler.warningForeground": "#E96401",
-        "gitDecoration.modifiedResourceForeground": "#F9C449",
+        "gitDecoration.modifiedResourceForeground": "#F9B031",
         "gitDecoration.addedResourceForeground": "#19FC8E",
         "gitDecoration.deletedResourceForeground": "#F43F1A",
         "gitDecoration.untrackedResourceForeground": "#19FC8E",
@@ -384,7 +384,7 @@
         "gitDecoration.conflictingResourceForeground": "#E96401",
         "gitDecoration.renamedResourceForeground": "#02B5FC",
         "gitDecoration.stageDeletedResourceForeground": "#F43F1A",
-        "gitDecoration.stageModifiedResourceForeground": "#F9C449",
+        "gitDecoration.stageModifiedResourceForeground": "#F9B031",
         "gitDecoration.submoduleResourceForeground": "#AE81FF",
         "scrollbar.shadow": "#000000",
         "scrollbarSlider.background": "#f1f1f140",

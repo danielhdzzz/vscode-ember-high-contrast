@@ -2,6 +2,13 @@
 
 All notable changes to Ember High Contrast are documented in this file.
 
+## [0.5.0] - 2026-03-21
+
+### Changed
+
+- Per-variant find match background opacity for better legibility on lighter accents
+- Tweaked yellow accent hue
+
 ## [0.4.0] - 2026-03-21
 
 ### Added

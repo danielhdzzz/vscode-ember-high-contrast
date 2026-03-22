@@ -12,7 +12,7 @@ PALETTE = {
     # Accent colors (one per theme variant)
     "orange":       "#E96401",
     "red":          "#F43F1A",
-    "yellow":       "#F9C449",
+    "yellow":       "#F9B031",
     "green":        "#19FC8E",
     "blue":         "#02B5FC",
     "purple":       "#AE81FF",
