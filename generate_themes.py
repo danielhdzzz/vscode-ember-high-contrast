@@ -313,6 +313,12 @@ HIGHLIGHT_MAP = {
     "gray":   c("cyan"),       # #43B9D8
 }
 
+# editor.findMatchBackground — accent + alpha
+FIND_MATCH_ALPHA = {
+    "orange": 255, "red": 255, "yellow": 200, "green": 200,
+    "blue":   255, "purple": 255, "white": 150, "gray": 255,
+}
+
 # list.activeSelectionBackground — accent + alpha (lighter accents need lower
 # opacity to achieve similar visual weight)
 LIST_ACTIVE_ALPHA = {
@@ -344,7 +350,7 @@ def build_colors(accent):
         "editor.foreground": FG,
         "editor.background": BG,
         "editor.inactiveSelectionBackground": c("indigo/164"),
-        "editor.findMatchBackground": a,
+        "editor.findMatchBackground": aa(FIND_MATCH_ALPHA[accent]),
         "editor.findMatchForeground": c("fg/204"),
         "editor.findMatchBorder": TRANSPARENT,
         "editor.selectionBackground": c("indigo"),

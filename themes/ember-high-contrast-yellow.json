@@ -237,7 +237,7 @@
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
         "editor.inactiveSelectionBackground": "#3924beA4",
-        "editor.findMatchBackground": "#F9C449",
+        "editor.findMatchBackground": "#F9C449C8",
         "editor.findMatchForeground": "#FFFFFFCC",
         "editor.findMatchBorder": "#00000000",
         "editor.selectionBackground": "#3924be",
