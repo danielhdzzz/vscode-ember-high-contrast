@@ -2,6 +2,16 @@
 
 All notable changes to Ember High Contrast are documented in this file.
 
+## [0.4.0] - 2026-03-21
+
+### Added
+
+- Theme generator script (`generate_themes.py`) that produces all 8 theme JSON files from a single source of truth
+
+### Changed
+
+- Unified formatting across all theme files (fixed inconsistent casing and whitespace in orange and blue variants)
+
 ## [0.2.2] - 2026-03-21
 
 ### Added

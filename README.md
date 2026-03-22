@@ -61,3 +61,14 @@ For VSCodium:
 ```bash
 codium --install-extension ember-high-contrast-<version>.vsix
 ```
+
+## Development
+
+1. Open this folder in VS Code and press **F5** — a second window opens with the theme loaded live.
+2. Edit `generate_themes.py` (palette, token colors, color template) and regenerate:
+   ```bash
+   python3 generate_themes.py
+   ```
+3. The dev host picks up color changes automatically. If it doesn't, run **Developer: Reload Window** (`Cmd+Shift+P`).
+
+No packaging or installing needed — just edit and see. Do not edit the theme JSON files by hand.
