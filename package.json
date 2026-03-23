@@ -2,7 +2,7 @@
     "name": "ember-high-contrast",
     "displayName": "Ember High Contrast",
     "description": "A dark, high-contrast color theme with 8 accent color variants",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "publisher": "danielhdzzz",
     "repository": {
         "type": "git",

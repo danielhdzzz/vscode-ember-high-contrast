@@ -473,7 +473,7 @@ def build_colors(accent):
         "dropdown.border": aa(117),
         "dropdown.background": BG,
         "dropdown.foreground": FG,
-        "input.background": BG,
+        "input.background": aa(20),
         "input.foreground": FG,
         "input.border": aa(117),
         "input.placeholderForeground": aa(117),
@@ -504,7 +504,7 @@ def build_colors(accent):
         "scrollbarSlider.hoverBackground": aa(112),
         "scrollbarSlider.activeBackground": aa(204),
         # Chat UI
-        "chat.requestBubbleBackground": aa(37),
+        # Chat UI
         "chat.requestBubbleHoverBackground": aa(50),
         "chat.requestCodeBorder": aa(80),
         "chat.slashCommandBackground": aa(37),

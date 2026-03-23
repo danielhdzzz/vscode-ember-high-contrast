@@ -2,6 +2,12 @@
 
 All notable changes to Ember High Contrast are documented in this file.
 
+## [0.6.1] - 2026-03-23
+
+### Changed
+
+- Input background now uses a faint accent tint instead of pure black — gives chat user messages a distinct background
+
 ## [0.6.0] - 2026-03-23
 
 ### Added
