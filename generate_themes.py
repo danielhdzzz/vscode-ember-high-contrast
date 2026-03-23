@@ -503,6 +503,21 @@ def build_colors(accent):
         "scrollbarSlider.background": aa(64),
         "scrollbarSlider.hoverBackground": aa(112),
         "scrollbarSlider.activeBackground": aa(204),
+        # Chat UI
+        "chat.requestBubbleBackground": aa(37),
+        "chat.requestBubbleHoverBackground": aa(50),
+        "chat.requestCodeBorder": aa(80),
+        "chat.slashCommandBackground": aa(37),
+        "chat.slashCommandForeground": a,
+        "chat.avatarBackground": BG,
+        "chat.avatarForeground": a,
+        # Inline Chat
+        "inlineChat.background": BG,
+        "inlineChat.border": aa(117),
+        "inlineChatInput.border": aa(117),
+        "inlineChatInput.focusBorder": a,
+        "inlineChatInput.background": BG,
+        "inlineChatInput.placeholderForeground": aa(117),
     }
 
 

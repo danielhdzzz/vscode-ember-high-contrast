@@ -389,6 +389,19 @@
         "scrollbar.shadow": "#000000",
         "scrollbarSlider.background": "#AE81FF40",
         "scrollbarSlider.hoverBackground": "#AE81FF70",
-        "scrollbarSlider.activeBackground": "#AE81FFCC"
+        "scrollbarSlider.activeBackground": "#AE81FFCC",
+        "chat.requestBubbleBackground": "#AE81FF25",
+        "chat.requestBubbleHoverBackground": "#AE81FF32",
+        "chat.requestCodeBorder": "#AE81FF50",
+        "chat.slashCommandBackground": "#AE81FF25",
+        "chat.slashCommandForeground": "#AE81FF",
+        "chat.avatarBackground": "#000000",
+        "chat.avatarForeground": "#AE81FF",
+        "inlineChat.background": "#000000",
+        "inlineChat.border": "#AE81FF75",
+        "inlineChatInput.border": "#AE81FF75",
+        "inlineChatInput.focusBorder": "#AE81FF",
+        "inlineChatInput.background": "#000000",
+        "inlineChatInput.placeholderForeground": "#AE81FF75"
     }
 }
