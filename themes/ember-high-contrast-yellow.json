@@ -397,11 +397,19 @@
         "chat.slashCommandForeground": "#F9B031",
         "chat.avatarBackground": "#000000",
         "chat.avatarForeground": "#F9B031",
+        "chat.editedFileForeground": "#F9B031",
+        "chat.linesAddedForeground": "#19FC8E",
+        "chat.linesRemovedForeground": "#F43F1A",
+        "chat.checkpointSeparator": "#F9B03175",
+        "chat.thinkingShimmer": "#F9B031",
         "inlineChat.background": "#000000",
+        "inlineChat.foreground": "#FFFFFF",
         "inlineChat.border": "#F9B03175",
         "inlineChatInput.border": "#F9B03175",
         "inlineChatInput.focusBorder": "#F9B031",
         "inlineChatInput.background": "#000000",
-        "inlineChatInput.placeholderForeground": "#F9B03175"
+        "inlineChatInput.placeholderForeground": "#F9B03175",
+        "inlineChatDiff.inserted": "#31958A55",
+        "inlineChatDiff.removed": "#892F4688"
     }
 }

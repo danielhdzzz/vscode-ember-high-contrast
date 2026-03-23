@@ -511,13 +511,21 @@ def build_colors(accent):
         "chat.slashCommandForeground": a,
         "chat.avatarBackground": BG,
         "chat.avatarForeground": a,
+        "chat.editedFileForeground": a,
+        "chat.linesAddedForeground": c("green"),
+        "chat.linesRemovedForeground": c("red"),
+        "chat.checkpointSeparator": aa(117),
+        "chat.thinkingShimmer": a,
         # Inline Chat
         "inlineChat.background": BG,
+        "inlineChat.foreground": FG,
         "inlineChat.border": aa(117),
         "inlineChatInput.border": aa(117),
         "inlineChatInput.focusBorder": a,
         "inlineChatInput.background": BG,
         "inlineChatInput.placeholderForeground": aa(117),
+        "inlineChatDiff.inserted": c("teal/85"),
+        "inlineChatDiff.removed": c("rose/136"),
     }
 
 

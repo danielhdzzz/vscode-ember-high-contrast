@@ -2,6 +2,13 @@
 
 All notable changes to Ember High Contrast are documented in this file.
 
+## [0.6.0] - 2026-03-23
+
+### Added
+
+- Chat panel colors: user message bubble background/hover, code borders, slash command styling, avatars, edited file foreground, added/removed line pills, checkpoint separator, thinking shimmer
+- Inline chat colors: background, foreground, border, input focus/placeholder, diff inserted/removed
+
 ## [0.5.0] - 2026-03-21
 
 ### Changed
