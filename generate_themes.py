@@ -511,6 +511,7 @@ def build_colors(accent):
         "chat.slashCommandForeground": a,
         "chat.avatarBackground": BG,
         "chat.avatarForeground": a,
+        "textPreformat.foreground": a,
         "chat.editedFileForeground": a,
         "chat.linesAddedForeground": c("green"),
         "chat.linesRemovedForeground": c("red"),

@@ -397,6 +397,7 @@
         "chat.slashCommandForeground": "#F9B031",
         "chat.avatarBackground": "#000000",
         "chat.avatarForeground": "#F9B031",
+        "textPreformat.foreground": "#F9B031",
         "chat.editedFileForeground": "#F9B031",
         "chat.linesAddedForeground": "#19FC8E",
         "chat.linesRemovedForeground": "#F43F1A",
