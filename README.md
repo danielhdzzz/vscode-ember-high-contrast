@@ -1,6 +1,6 @@
 # 🕯️ Ember High Contrast theme for vscode
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/danielhdzzz.ember-high-contrast?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=danielhdzzz.ember-high-contrast)
+[![VS Code Marketplace](https://img.shields.io/open-vsx/v/danielhdzzz/ember-high-contrast?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=danielhdzzz.ember-high-contrast)
 [![Open VSX](https://img.shields.io/open-vsx/v/danielhdzzz/ember-high-contrast?label=Open%20VSX)](https://open-vsx.org/extension/danielhdzzz/ember-high-contrast)
 
 A dark, high-contrast color theme for VS Code with 8 accent color variants: blue, gray, green, orange, purple, red, white, and yellow. Based on [74th/vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal) with revised colors, themed scrollbars, chat, warning/git colors and find match colors.
